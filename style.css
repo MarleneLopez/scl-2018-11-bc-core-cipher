@@ -1,1 +1,90 @@
-/* Acá va tu código */
+body{
+  font-family: monospace;
+  background-color:
+
+}
+h1{
+  color: black;
+    background-color: #f7b617;
+    font-family: monospace;
+    font-size: 20px;
+    display:block;
+    height: 100px;
+    margin:10px;
+    padding:10px;
+}
+
+form{
+  width: 60%;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align:center;
+  background-color: #e3e3e3;
+  border-radius: 20px;
+  margin: 0 auto;
+  align-content: center;
+  margin-top:50px;
+
+}
+#cesar{
+  margin:auto;
+}
+#cifrar{
+ width:30%;
+ margin-bottom:20px;
+ margin-top:15px;
+ text-align:center;
+ padding: 15px;
+ font-size: 18px;
+ border:red;
+ color:white;
+ border-radius: 30px;
+ background-color:#3f51b5
+}
+#descifrar{
+ width:30%;
+ margin-bottom:20px;
+ margin-top:15px;
+ text-align:center;
+ padding: 15px;
+ font-size: 18px;
+ border:red;
+ color:white;
+ border-radius: 30px;
+ background-color:#eb50b3
+}
+#comenzar, #volver, #limpiar{
+ width:30%;
+ margin-bottom:20px;
+ margin-top:15px;
+ text-align:center;
+ padding: 15px;
+ font-size: 18px;
+ border:red;
+ color:#3f51b5;
+ border-radius: 30px;
+ background-color:#c7c7c7
+}
+label{
+  font-size: 20px;
+  display: block;
+  width:100%;
+}
+input, textarea{
+  margin-bottom: 20px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border:1px solid #ccc;
+  text-align:center;
+  font-size: 30px;
+}
+p{
+  font-size: 20px;
+  color:#282828;
+  text-align:center;
+  margin-top: 0px;
+}
+button:hover{
+  cursor: pointer;
+}
