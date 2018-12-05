@@ -6,9 +6,43 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
-    </div>
+    
+<img src="pinsafe/logo.jpg" width="200" alt="">
+
+<div id="root">
+<h1>PINsafe</h1>
+<form>
+  <p>Con PINsafe, puedes enviar datos de tu cuenta, claves, etc. sin preocupaciones.</p>
+  <button  id ="comenzar"> <strong>CONTINUAR</strong> </button>
+</form>
+</div>
+
+<div id="cesar">
+
+<form>
+     <!--<p>Ingresa el nivel de seguridad de tu código</p>-->
+    <label for="inputOffset"> Nivel de seguridad de tu código (Entre 1 - 10):</label>
+
+  <input type="number" id = "inputOffset" name="quantity" min="1" max="10">
+       <!-- <input type = "tel" id = "inputOffset"></input> -->
+        <p>Ingresa tu código a cifrar o descifrar</p>
+     <p id="error"> Sólo se permite el ingreso de letras. </p>
+
+  <input type = "text" id = "inputTexto" placeholder = "Ingresa tu texto " name = "text-example"
+           required>
+
+
+
+<button id = "cifrar"> <strong>CIFRAR</strong> </button> &nbsp&nbsp <button id = "descifrar"> <strong>DESCIFRAR</strong> </button>
+
+     <textarea  id = "textoEntregado" rows="1" cols="50"> </textarea>
+
+<button id = "volver" > <strong>INSTRUCCIONES</strong> </button>
+
+</form>
+</div>
+
+
     <script src="cipher.js"></script>
     <script src="index.js"></script>
   </body>
