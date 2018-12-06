@@ -15,13 +15,13 @@ La persona necesita enviar esta información de manera segura, ya que quiere evi
 
 ## **Objetivos**
 
-Enviar información a travede manera rápida, fácil y segura.
+Cifrar información personal volviendola "secreta" y enviarla a través de un mensaje, de manera rápida, fácil y segura.
 # **Definición del Producto**
 
 
 ## **Experiencia (como resuelve el problema)**
 
-PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviarla de manera segura.
+PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviarla de manera segura. Posee una pantalla de c
 
 ## **Planificación**
 
@@ -127,8 +127,8 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI0Njc2OSw1MTA5NDc5NDMsNjA0OD
-kyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYs
-LTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMT
-Y2MjUwMl19
+eyJoaXN0b3J5IjpbNjkzMDEyODM3LDUxMDk0Nzk0Myw2MDQ4OT
+IxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3Niwt
+MTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNj
+YyNTAyXX0=
 -->
