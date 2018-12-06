@@ -113,13 +113,13 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 Reemplazar por “ocultar” “mostrar“
 
 >
-
+ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLDYwND
-g5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5NDc2
-LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC03Mj
-E2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTc1NjY5ODkwNiwtMTc0NTA2ODcwMiw1MT
+A5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3
+OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4Nj
+IzODAwMzEsLTcyMTY2MjUwMl19
 -->
