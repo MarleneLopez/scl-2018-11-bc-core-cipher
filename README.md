@@ -71,7 +71,7 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 - La palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. Para indicar que deben ingresar un número sin que hayan confusiones, se usará la frase **"Nivel de seguridad de tu código (Entre 1 - 10):" **
 - Los botones de **"Cifrar"** y **"Descifrar"** llevan colores distintos para demostrar que son acciones opuestas.
-
+- Se diseño el logo
 
 
 # Testeos de Usuario
@@ -100,7 +100,7 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOT
-ExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUw
-Ml19
+eyJoaXN0b3J5IjpbMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzND
+M0OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAz
+MSwtNzIxNjYyNTAyXX0=
 -->
