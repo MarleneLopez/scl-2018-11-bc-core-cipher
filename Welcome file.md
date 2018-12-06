@@ -54,7 +54,6 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 - Limpiar/volver a hacer
 
-
 	> To start syncing your workspace, just sign in with Google in the menu.
 
 
@@ -95,5 +94,5 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0Mzg1MDksLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
 -->
