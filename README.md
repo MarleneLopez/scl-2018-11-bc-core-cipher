@@ -1,3 +1,7 @@
+# **Instroducción al Proyecto**
+**"PINsafe"** es una plataforma
+
+
 # **Definición del Usuario**
 ## **Usuario**
 
@@ -123,7 +127,8 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mz
-k5NTI5LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQz
-LC0xNDI5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTYzOTAyODY4Myw1MTA5NDc5NDMsNjA0OD
+kyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYs
+LTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMT
+Y2MjUwMl19
 -->
