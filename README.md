@@ -76,10 +76,11 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 # Testeos de Usuario
 
-**Feedback e Insights**
+**Primer testeo, ***Feedback e Insights*****
+
 - En el nivel de seguridad de código, todos querrán poner 10.
 
-Reemplazar por un simple: Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)
+>Reemplazar por un simple: Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)
 
 “Esta es la clave para descifrar el código”.  ¿La persona entenderá que debe enviársela a la otra persona?
 
@@ -87,13 +88,12 @@ Reemplazar por un simple: Elige un número del 1 al 10. (Este es el número secr
 
 Reemplazar por “oculta tu texto” “descubre “
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
+>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzcyOTQxMiwxODYyMzgwMDMxLC03Mj
+eyJoaXN0b3J5IjpbMjExMTY4MTUxOSwxODYyMzgwMDMxLC03Mj
 E2NjI1MDJdfQ==
 -->
