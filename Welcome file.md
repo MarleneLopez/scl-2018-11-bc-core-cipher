@@ -110,7 +110,7 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 - Usar las palabras “cifrar y “descifrar”
 
-Reemplazar por “oculta tu texto” “descubre “
+Reemplazar por “ocultar” “mostrar“
 
 >
 
@@ -118,8 +118,8 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNjMxNTU0LDUxMDk0Nzk0Myw2MDQ4OT
-IxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3Niwt
-MTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNj
-YyNTAyXX0=
+eyJoaXN0b3J5IjpbLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLDYwND
+g5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5NDc2
+LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC03Mj
+E2NjI1MDJdfQ==
 -->
