@@ -17,7 +17,7 @@ Enviar información de manera rápida, fácil y segura.
 
 ## **Experiencia (como resuelve el problema)**
 
-PINsafe, permite cifrar información personal y enviarla de manera segura.
+PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviarla de manera segura.
 
 ## **Planificación**
 
@@ -100,6 +100,7 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xND
-I5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOT
+ExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUw
+Ml19
 -->
