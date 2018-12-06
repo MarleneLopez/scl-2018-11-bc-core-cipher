@@ -73,6 +73,10 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 - Los botones de **"Cifrar"** y **"Descifrar"** llevan colores distintos para demostrar que son acciones opuestas.
 - Se diseño el logo
 
+![
+](https://lh3.googleusercontent.com/gVouBCGLFdVM81GfTmjpnuXVjXTB6am_6TYIGFUa05m3duEhjY7J-v1-e51TNK5caJ_D7x-pHLo3 "mapa")
+
+
 
 ![
 ](https://lh3.googleusercontent.com/U063yylLq-ycBAejNpqiIrgtSkY7BiQ9f1LLrViNn53-nX6vqINdH9WMxULgHIUZxdV24elEKL0P "usuario")
@@ -80,6 +84,7 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 ![
 ](https://lh3.googleusercontent.com/eaWiUBWb7WNF6Nj4L2w6BIumiwF-BocvLZGh1tOhc2P2d-8NLCjSlg0DhZpsIWMNePAisKT5EkWP "mockup2y3")
+
 
 ![
 ](https://lh3.googleusercontent.com/DFmIRfbsguZ6gFutI_bcSDLJrzQLPTm2WxH9_C7N2O0YUfKLW_3rs8p2frUOt8PiGTuATjUEOgpv "mockup1")
@@ -118,7 +123,7 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTgyMTg0OSw2MDQ4OTIxNzIsMTQ4ND
-M5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0
-MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mz
+k5NTI5LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQz
+LC0xNDI5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
 -->
