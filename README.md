@@ -74,7 +74,6 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 - 
 
 
-
 # Testeos de Usuario
 
 **Primer testeo, ***Feedback e Insights*****
@@ -82,10 +81,13 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 - "En el nivel de seguridad de código, todos querrán poner 10."
 
->Reemplazar por: Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)
+>Reemplazar por: 
+>"Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)".
 
->“Esta es la clave para descifrar el código”.  
+>“Esta es la clave para descifrar el código”. 
+ 
 >"Ingresa el número que será la clave para tu código:"
+
 >//¿La persona entenderá que debe enviársela a la otra persona?
 
 - Usar las palabras “cifrar y “descifrar”
@@ -98,6 +100,6 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzU2NjYxLC0xMDkxMTE5MzQzLC0xND
-I5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTE1NTkxOSwtMTA5MTExOTM0MywtMT
+QyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
 -->
