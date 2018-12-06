@@ -68,7 +68,8 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 ## Detalles de diseño (paleta)
 - La palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. 
-> Para indicar que deben ingresar un número se usará la frase " 
+> Para indicar que deben ingresar un número sin que hayan confusiones, se usará la frase "Nivel de seguridad de tu código (Entre 1 - 10):" 
+- 
 
 
 
@@ -93,6 +94,6 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDkyNjI5MDUsMTg2MjM4MDAzMSwtNz
+eyJoaXN0b3J5IjpbLTE3NzE5ODk5NDQsMTg2MjM4MDAzMSwtNz
 IxNjYyNTAyXX0=
 -->
