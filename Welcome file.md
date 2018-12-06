@@ -67,10 +67,8 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 
 ## Detalles de diseño (paleta)
-- La palabra "offset", puede sonar confusa
-
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+- La palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. 
+> Para indicar que deben ingresar un número se usará la frase "E
 
 
 
@@ -95,6 +93,6 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDYwNDA1MjUsMTg2MjM4MDAzMSwtNz
-IxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbMTc4Nzg0MTA5MCwxODYyMzgwMDMxLC03Mj
+E2NjI1MDJdfQ==
 -->
