@@ -77,6 +77,14 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 
 ![
+](https://lh3.googleusercontent.com/eaWiUBWb7WNF6Nj4L2w6BIumiwF-BocvLZGh1tOhc2P2d-8NLCjSlg0DhZpsIWMNePAisKT5EkWP "mockup2y3")
+
+![
+](https://lh3.googleusercontent.com/DFmIRfbsguZ6gFutI_bcSDLJrzQLPTm2WxH9_C7N2O0YUfKLW_3rs8p2frUOt8PiGTuATjUEOgpv "mockup1")
+
+
+
+![
 ](https://lh3.googleusercontent.com/5qT_kcLx-JCQDi0nwyPYG2YXTGu5PZkphnIpHGL0NjYmtXVn5SZqXU8kH3K4FCtKI3ZSZpo1nruU "mockup1b")
 
 
@@ -108,7 +116,7 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTMxOTgwNSw2MDQ4OTIxNzIsMTQ4ND
-M5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0
-MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbLTE1NDgxMjU5NTYsNjA0ODkyMTcyLDE0OD
+QzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkz
+NDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
