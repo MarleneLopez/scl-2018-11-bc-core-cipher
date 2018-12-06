@@ -55,7 +55,12 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 ## Mockup para desarrollo 
 
 
+## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
 
+Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, la primera donde se pueden ver las instrucciones, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado.
+
+
+Acá la persona debe ingresar los datos. Se describe el ingreso de offset como “selecciona
 ## Detalles del Diseño
 - En la primera pantalla se mostrarán **instrucciones gráficas** de uso, para que especificamente no hayan confusiones entre la palabra **"Cifrado"** y **"Descifrado"**
 
@@ -113,8 +118,8 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDc4NTMyOCw1MTA5NDc5NDMsNjA0OD
-kyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYs
-LTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMT
-Y2MjUwMl19
+eyJoaXN0b3J5IjpbOTEzNjMxNTU0LDUxMDk0Nzk0Myw2MDQ4OT
+IxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3Niwt
+MTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNj
+YyNTAyXX0=
 -->
