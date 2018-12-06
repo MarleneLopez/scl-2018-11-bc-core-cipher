@@ -74,6 +74,8 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 - Se diseño el logo
 
 
+![
+](https://lh3.googleusercontent.com/U063yylLq-ycBAejNpqiIrgtSkY7BiQ9f1LLrViNn53-nX6vqINdH9WMxULgHIUZxdV24elEKL0P "usuario")
 
 
 ![
@@ -116,7 +118,7 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgxMjU5NTYsNjA0ODkyMTcyLDE0OD
-QzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkz
-NDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbLTkyOTgyMTg0OSw2MDQ4OTIxNzIsMTQ4ND
+M5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0
+MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
 -->
