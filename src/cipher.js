@@ -2,13 +2,13 @@ window.cipher = {
   encode: (texto, offset) => {
 
     let resultCodificar = "";
-    for ( let i = 0 ; i <= texto.length ; i++){
+    for ( let i = 0 ; i < texto.length ; i++){
       let nuevoTexto = texto.toUpperCase();
       //guardando datos del for
       let ascii = nuevoTexto.charCodeAt(i)
       if (ascii === 32 ){
-      resultCodificar += " "
-      continue;
+        resultCodificar += " "
+        continue;
       }
       //aplicando formula a ascii
       let formula = ((ascii - 65 + parseInt(offset)) % 26) + 65;
@@ -21,7 +21,7 @@ window.cipher = {
   },
 decode: (textoD, offsetD) => {
   let resultDecodificar = "";
-  for ( let i = 0 ; i <= textoD.length ; i++){
+  for ( let i = 0 ; i < textoD.length ; i++){
     let nuevoTextoD = textoD.toUpperCase();
     //guardando datos del for
     let asciiD = nuevoTextoD.charCodeAt(i)

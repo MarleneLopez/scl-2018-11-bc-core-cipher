@@ -8,6 +8,7 @@ function mostrar(){
 //Botón comenzar, con prevent default para eliminar parpadeo
 //Se reemplazó el onclick() por addEventListener, para eso se creó un id donde
 //habia onclick(). Ya no es una función (function)!!
+
   document.getElementById("comenzar").addEventListener('click', (evento) => {
      evento.preventDefault();
   document.getElementById("root").style.display="none";
