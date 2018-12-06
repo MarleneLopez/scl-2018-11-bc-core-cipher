@@ -70,6 +70,7 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 - En la primera pantalla se mostrarán **instrucciones gráficas** de uso, para que especificamente no hayan confusiones entre la palabra **"Cifrado"** y **"Descifrado"**
 
 - La palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. Para indicar que deben ingresar un número sin que hayan confusiones, se usará la frase **"Nivel de seguridad de tu código (Entre 1 - 10):" **
+- Los botones de **"Cifrar"** y **"Descifrar"** llevan colores distintos para demostrar que son acciones opuestas.
 - 
 
 
@@ -95,6 +96,6 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMT
-Y2MjUwMl19
+eyJoaXN0b3J5IjpbLTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4Nj
+IzODAwMzEsLTcyMTY2MjUwMl19
 -->
