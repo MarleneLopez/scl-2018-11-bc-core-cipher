@@ -76,7 +76,11 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 # Testeos de Usuario
 
+**
 
+## Feedback e Insights
+
+**
 - En el nivel de seguridad de código, todos querrán poner 10.
 
 Reemplazar por un simple: Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)
@@ -94,5 +98,6 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbMTk2NTk4MDAyNCwxODYyMzgwMDMxLC03Mj
+E2NjI1MDJdfQ==
 -->
