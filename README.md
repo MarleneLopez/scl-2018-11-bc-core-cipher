@@ -67,7 +67,7 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 
 ## Detalles de diseño (paleta)
-
+- La palabra "offset", puede sonar confusa
 
 
 > **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
@@ -77,8 +77,9 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 # Testeos de Usuario
 
 **Primer testeo, ***Feedback e Insights*****
+La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
-- En el nivel de seguridad de código, todos querrán poner 10.
+- "En el nivel de seguridad de código, todos querrán poner 10."
 
 >Reemplazar por un simple: Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)
 
@@ -94,6 +95,6 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTY4MTUxOSwxODYyMzgwMDMxLC03Mj
-E2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE5NDYwNDA1MjUsMTg2MjM4MDAzMSwtNz
+IxNjYyNTAyXX0=
 -->
