@@ -21,23 +21,10 @@ Cifrar información personal volviendola "secreta" y enviarla a través de un me
 
 ## **Experiencia (como resuelve el problema)**
 
-PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviarla de manera segura. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifrar el texto. La plataforma es simple de usar, y en pocos pasos  permite lograr el objetivo
+PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviarla de manera segura. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifrar el texto. La plataforma es simple de usar, y en pocos pasos  permite lograr el objetivo.
 
 ## **Planificación**
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
-
-Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, la primera donde se pueden ver las instrucciones, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado.
-
-**Export to disk** 
-
-
-Acá la persona debe ingresar los datos. Se describe el ingreso de offset como “selecciona
-
-
-# **Historias de usuario**
+**Historias de usuario**
 
 Para poder realizar la planificación se enlistaron las siguientes historias de usuario, las cuales desglozan las funciones que debe tener la plataforma web:
 - Recibir bienvenida
@@ -59,6 +46,18 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 - Limpiar/volver a hacer
 
 	> To start syncing your workspace, just sign in with Google in the menu.
+## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
+
+Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, la primera donde se pueden ver las instrucciones, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado.
+
+**Export to disk** 
+
+
+Acá la persona debe ingresar los datos. Se describe el ingreso de offset como “selecciona
+
+
+
+
 
 
 
@@ -127,7 +126,7 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTYwMzI2MCw1MTA5NDc5NDMsNjA0OD
+eyJoaXN0b3J5IjpbLTMyNjUxODI2Niw1MTA5NDc5NDMsNjA0OD
 kyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYs
 LTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMT
 Y2MjUwMl19
