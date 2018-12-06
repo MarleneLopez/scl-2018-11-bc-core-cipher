@@ -21,7 +21,7 @@ Cifrar información personal volviendola "secreta" y enviarla a través de un me
 
 ## **Experiencia (como resuelve el problema)**
 
-PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviarla de manera segura. Posee una pantalla de cifrado, la 
+PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviarla de manera segura. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifar 
 
 ## **Planificación**
 
@@ -127,8 +127,8 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODMzNzMxOSw1MTA5NDc5NDMsNjA0OD
-kyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYs
-LTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMT
-Y2MjUwMl19
+eyJoaXN0b3J5IjpbNzYzNTYwNTExLDUxMDk0Nzk0Myw2MDQ4OT
+IxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3Niwt
+MTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNj
+YyNTAyXX0=
 -->
