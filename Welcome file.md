@@ -71,7 +71,6 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 - La palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. Para indicar que deben ingresar un número sin que hayan confusiones, se usará la frase **"Nivel de seguridad de tu código (Entre 1 - 10):" **
 - Los botones de **"Cifrar"** y **"Descifrar"** llevan colores distintos para demostrar que son acciones opuestas.
-- 
 
 
 
@@ -83,10 +82,12 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 - "En el nivel de seguridad de código, todos querrán poner 10."
 
 >Reemplazar por: 
->·Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)
+>"Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)".
 
->“Esta es la clave para descifrar el código”.  
+>“Esta es la clave para descifrar el código”. 
+ 
 >"Ingresa el número que será la clave para tu código:"
+
 >//¿La persona entenderá que debe enviársela a la otra persona?
 
 - Usar las palabras “cifrar y “descifrar”
@@ -99,6 +100,6 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MDM1NjIsLTEwOTExMTkzNDMsLTE0Mj
-kyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xND
+I5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
 -->
