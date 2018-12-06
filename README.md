@@ -46,14 +46,6 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 - Limpiar/volver a hacer
 
 	> To start syncing your workspace, just sign in with Google in the menu.
-## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
-
-Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, la primera donde se pueden ver las instrucciones, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado.
-
-**Export to disk** 
-
-
-Acá la persona debe ingresar los datos. Se describe el ingreso de offset como “selecciona
 
 
 
@@ -126,8 +118,8 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjUxODI2Niw1MTA5NDc5NDMsNjA0OD
-kyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYs
-LTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMT
-Y2MjUwMl19
+eyJoaXN0b3J5IjpbLTM3OTk2NzkwLDUxMDk0Nzk0Myw2MDQ4OT
+IxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3Niwt
+MTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNj
+YyNTAyXX0=
 -->
