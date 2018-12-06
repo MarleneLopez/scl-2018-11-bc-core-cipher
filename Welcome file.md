@@ -35,7 +35,7 @@ Acá la persona debe ingresar los datos. Se describe el ingreso de offset como �
 
 # **Historias de usuario**
 
-Para poder realizar la planificación se enlistaron las siguientes historias de usuario, las cuales desglozan las funciones que debe tener 
+Para poder realizar la planificación se enlistaron las siguientes historias de usuario, las cuales desglozan las funciones que debe tener la plataforma web:
 - Recibir bienvenida
 
 - Leer instrucciones
@@ -95,5 +95,5 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE5MTEyMDMsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbODM0Mzg1MDksLTcyMTY2MjUwMl19
 -->
