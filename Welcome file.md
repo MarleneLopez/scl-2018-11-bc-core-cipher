@@ -1,5 +1,5 @@
-# **Instroducción al Proyecto**
-**"PINsafe"** es una plataforma
+# **Introducción al Proyecto**
+**"PINsafe"**, es una plataforma que permite cifrar información personal y enviarla de manera segura.
 
 
 # **Definición del Usuario**
@@ -15,7 +15,7 @@ La persona necesita enviar esta información de manera segura, ya que quiere evi
 
 ## **Objetivos**
 
-Enviar información de manera rápida, fácil y segura.
+Enviar información a través de de manera rápida, fácil y segura.
 # **Definición del Producto**
 
 
@@ -127,7 +127,7 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTAyODY4Myw1MTA5NDc5NDMsNjA0OD
+eyJoaXN0b3J5IjpbLTIzMjc2NzYzOSw1MTA5NDc5NDMsNjA0OD
 kyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYs
 LTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMT
 Y2MjUwMl19
