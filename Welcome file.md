@@ -82,9 +82,11 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 - "En el nivel de seguridad de código, todos querrán poner 10."
 
->Reemplazar por un simple: Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)
+>Reemplazar por: 
+>·Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)
 
 >“Esta es la clave para descifrar el código”.  
+>"Ingresa el número que será la clave para tu código:"
 >//¿La persona entenderá que debe enviársela a la otra persona?
 
 - Usar las palabras “cifrar y “descifrar”
@@ -97,6 +99,6 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTQ0ODA0NywtMTA5MTExOTM0MywtMT
-QyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbNDc3MDM1NjIsLTEwOTExMTkzNDMsLTE0Mj
+kyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
