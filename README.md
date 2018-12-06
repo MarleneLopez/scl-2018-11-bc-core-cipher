@@ -35,7 +35,7 @@ Acá la persona debe ingresar los datos. Se describe el ingreso de offset como �
 
 # **Historias de usuario**
 
-Para poder realizar la planificación se 
+Para poder realizar la planificación se enlistaron las siguientes historias de usuario, las cuales desglozan las funciones que debe tener 
 - Recibir bienvenida
 
 - Leer instrucciones
@@ -95,5 +95,5 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTk3NzQ1MCwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbLTE4NzE5MTEyMDMsLTcyMTY2MjUwMl19
 -->
