@@ -74,7 +74,10 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 - Se diseño el logo
 
 
-![\](https://picasaweb.google.com/112666687935106469770/6631941019024206849#6631941022225128274 "mapa de flujo")](https://lh3.googleusercontent.com/cNeJhxqnJySwTb7p8cagwBF7YxOiZSdSZJGzR8m2cS-2eazMfyWGvbYxdf2nVyj7mGpNvVImq8i0)
+![\](https://pica![
+![
+](https://lh3.googleusercontent.com/ehSvRt3B1bbzIKJ3aUJquK_XIUziU6Fomxfm2MoR4lRLQEEVjTnUUyU7iW4bjVONB2dXjSAQjShk 
+"mackup1")saweb.google.com/112666687935106469770/6631941019024206849#6631941022225128274 "mapa de flujo")](https://lh3.googleusercontent.com/cNeJhxqnJySwTb7p8cagwBF7YxOiZSdSZJGzR8m2cS-2eazMfyWGvbYxdf2nVyj7mGpNvVImq8i0)
 # Testeos de Usuario
 
 **Primer testeo, ***Feedback e Insights*****
@@ -101,7 +104,7 @@ Reemplazar por “oculta tu texto” “descubre “
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0ODkyMTcyLDE0ODQzOTk1MjksLTI2OD
-Y1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5
-LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbLTcyNjcwNTI2Myw2MDQ4OTIxNzIsMTQ4ND
+M5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0
+MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
 -->
