@@ -126,14 +126,16 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 ](https://lh3.googleusercontent.com/xjFjGh_B0RaDSPVhzu2IvFCGRDQtE3dtlPkPpyx87L-YcLROiGq_BqX_OCrVqKGGZGYoRg6dPYEF "cifrarNueva")
 
 # Rediseño
-![
+
 ![
 ](https://lh3.googleusercontent.com/y0hrofmeJAPhEopQaMDvZr4L17LMAEDehdCOjErrAOpoJ4NURMVEaHof0MRVsEK00meL0Q03IsoZ "web1")
+- Se cambi
+![
+](https://lh3.googleusercontent.com/P8OgZ-a1kOWGp6Wxa0StzgE9jGTvZm4QxxyJ86OUWClxhFtT7uyGIJgbDmTvzSOx2pq0b419enTC "web2")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY5MjM0MDYsMTUxMzUwOTI0MywzOD
-Q4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4
-OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMT
-Q4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTEx
-OTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX
-0=
+eyJoaXN0b3J5IjpbNDg5NjEzOTgxLDE1MTM1MDkyNDMsMzg0OD
+U4NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkw
+NiwtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0OD
+QzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkz
+NDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
