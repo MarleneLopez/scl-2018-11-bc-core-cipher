@@ -19,9 +19,9 @@ Cifrar información personal volviendola "secreta" y enviarla a través de un me
 # **Definición del Producto**
 
 
-## **Experiencia (como resuelve el problema)**
+## **Experiencia**
 
-PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviarla de manera segura. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifrar el texto. La plataforma es simple de usar, y en pocos pasos  permite lograr el objetivo.
+PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviar esta información a través canales poco seguros como wathsapp, de manera segura. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifrar el texto. La plataforma es simple de usar, y en pocos pasos  permite lograr el objetivo.
 
 ## **Planificación**
 **Historias de usuario**
@@ -143,10 +143,10 @@ Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODQxNjc2MSw5MjAzNjM2NTgsLTEyMT
-I3MjIxOTQsLTE3MDk4NzE5MjAsMTUxMzUwOTI0MywzODQ4NTg1
-NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC
-0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5
-OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0My
-wtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbMjc4MDUyMzksOTIwMzYzNjU4LC0xMjEyNz
+IyMTk0LC0xNzA5ODcxOTIwLDE1MTM1MDkyNDMsMzg0ODU4NTYx
+LDEyMzM3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNiwtMT
+c0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1
+MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLT
+E0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
