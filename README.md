@@ -125,11 +125,15 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 ![
 ](https://lh3.googleusercontent.com/xjFjGh_B0RaDSPVhzu2IvFCGRDQtE3dtlPkPpyx87L-YcLROiGq_BqX_OCrVqKGGZGYoRg6dPYEF "cifrarNueva")
 
-
+# Rediseño
+![
+![
+](https://lh3.googleusercontent.com/y0hrofmeJAPhEopQaMDvZr4L17LMAEDehdCOjErrAOpoJ4NURMVEaHof0MRVsEK00meL0Q03IsoZ "web1")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzUwOTI0MywzODQ4NTg1NjEsMTIzMz
-c4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4
-NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMj
-Y4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2
-MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbLTE1NzY5MjM0MDYsMTUxMzUwOTI0MywzOD
+Q4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4
+OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMT
+Q4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTEx
+OTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX
+0=
 -->
