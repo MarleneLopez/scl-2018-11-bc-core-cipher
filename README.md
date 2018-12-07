@@ -69,21 +69,19 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 ![
 ](https://lh3.googleusercontent.com/qBjd6IK602FzRvdVsksU62-Gc8fnoXlcLg4nRzIG5yNdkYl-qpA00aOypiRfPGcZsyyp7KvwtX9T "mockup4")
 
-## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
+## **Desarrollo de Interfaz UI 
 
-
+- Diseño 1
 ![
 ](https://lh3.googleusercontent.com/Rbq2S5NuQO0HxiIldx3S4BQgMknBl-DL1pafpv82PjuDwgSjT9F6IFXtJmHzYP5dEU3c-YcZEVo4 "webA")
 
-
+- Diseño 2
 ![
 ](https://lh3.googleusercontent.com/b9puFYcDa_gAsHnRd4_XPAKzDaR90Dy07hykdO8p1OxxzNZ9XwHhIvOpP0NKahq7y0mgL25YnBNo "webB")
 
-- Diseño final (más detalles en rediseño
-
+- Diseño final (más detalles en sección testeo y rediseño)
 ![
 ](https://lh3.googleusercontent.com/qjTIXogh-YsDeutCPCNjrucjtsE8PcbVBGBPocdAJ5Lp5p-WXxv9YyiwsA4pQkrqUV3qAnMGCuzK "web1")
-
 ![
 ](https://lh3.googleusercontent.com/B8N_CL1bv9etztZEJSL0B5Cak6aqmz3-q2t9rvAeijV1sC70pzVOVyQiQrWwoyxsQ8uCfQWZ3Ux7 "web2")
 Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, la primera donde se pueden ver las instrucciones, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado.
@@ -143,10 +141,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1OTk1NjY0LC0xNzA5ODcxOTIwLDE1MT
-M1MDkyNDMsMzg0ODU4NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4
-MzcsLTc1NjY5ODkwNiwtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNj
-A0ODkyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0
-NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLT
-cyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbLTEyOTUyNDExNDEsLTE3MDk4NzE5MjAsMT
+UxMzUwOTI0MywzODQ4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3
+NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0My
+w2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0
+OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMS
+wtNzIxNjYyNTAyXX0=
 -->
