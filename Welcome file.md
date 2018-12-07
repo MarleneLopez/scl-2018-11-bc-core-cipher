@@ -60,7 +60,10 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 ](https://lh3.googleusercontent.com/N-Y0y0f3TM5jqi3p28LPsBZtHJpC1DopQKH7naClczBzirIgEJNvhpUo8_0CZokbpkPJlv3pyYFE "mapadeflujo3")
 
 ## Mockup para desarrollo 
-
+![
+](https://lh3.googleusercontent.com/DFmIRfbsguZ6gFutI_bcSDLJrzQLPTm2WxH9_C7N2O0YUfKLW_3rs8p2frUOt8PiGTuATjUEOgpv "mockup1")
+![
+](https://lh3.googleusercontent.com/VBwNyqaI3gaxwu26ie9JpnJB-GtHiqlpfb8fDBnLJDSkRLR3XLMOLIUmjZjup_a0rujKIqLiujW0 "mockup2")
 
 ## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
 
@@ -76,30 +79,6 @@ Acá la persona debe ingresar los datos. Se describe el ingreso de offset como �
 - Los botones de **"Cifrar"** y **"Descifrar"** llevan colores distintos para demostrar que son acciones opuestas.
 - Se diseño el logo
 
-![
-](https://lh3.googleusercontent.com/gVouBCGLFdVM81GfTmjpnuXVjXTB6am_6TYIGFUa05m3duEhjY7J-v1-e51TNK5caJ_D7x-pHLo3 "mapa")
-
-
-
-![
-](https://lh3.googleusercontent.com/U063yylLq-ycBAejNpqiIrgtSkY7BiQ9f1LLrViNn53-nX6vqINdH9WMxULgHIUZxdV24elEKL0P "usuario")
-
-
-![
-](https://lh3.googleusercontent.com/eaWiUBWb7WNF6Nj4L2w6BIumiwF-BocvLZGh1tOhc2P2d-8NLCjSlg0DhZpsIWMNePAisKT5EkWP "mockup2y3")
-
-
-![
-](https://lh3.googleusercontent.com/DFmIRfbsguZ6gFutI_bcSDLJrzQLPTm2WxH9_C7N2O0YUfKLW_3rs8p2frUOt8PiGTuATjUEOgpv "mockup1")
-
-
-
-![
-](https://lh3.googleusercontent.com/5qT_kcLx-JCQDi0nwyPYG2YXTGu5PZkphnIpHGL0NjYmtXVn5SZqXU8kH3K4FCtKI3ZSZpo1nruU "mockup1b")
-
-
-
-![\](https://picasaweb.google.com/112666687935106469770/6631941019024206849#6631941022225128274 "mapa de flujo")](https://lh3.googleusercontent.com/cNeJhxqnJySwTb7p8cagwBF7YxOiZSdSZJGzR8m2cS-2eazMfyWGvbYxdf2nVyj7mGpNvVImq8i0)
 # Testeos de Usuario
 
 **Primer testeo, ***Feedback e Insights*****
@@ -146,10 +125,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODg2NzQyMiwtMTcwOTg3MTkyMCwxNT
-EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
-ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
-YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
-NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC
-03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjA0MTMwODYsLTE3MDk4NzE5MjAsMT
+UxMzUwOTI0MywzODQ4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3
+NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0My
+w2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0
+OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMS
+wtNzIxNjYyNTAyXX0=
 -->
