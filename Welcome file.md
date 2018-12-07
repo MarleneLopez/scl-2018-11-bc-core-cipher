@@ -134,12 +134,13 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 ![
 ](https://lh3.googleusercontent.com/P8OgZ-a1kOWGp6Wxa0StzgE9jGTvZm4QxxyJ86OUWClxhFtT7uyGIJgbDmTvzSOx2pq0b419enTC "web2")
 - Se cambio "cifrar" y "descifrar" por palabras más comunes, "ocultar" y "mostrar".
-- Se cambiaron las instrucciones a palabras simples. Al "offset" se le camufla con la palabra
+- Se cambiaron las instrucciones a palabras simples. Al "offset" se le camufla con la palabra "contraseña" y se especifíca que esta sea numérica.
+
+Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODk3NzgwNywxNTEzNTA5MjQzLDM4ND
-g1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5
-MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxND
-g0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5
-MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ
-==
+eyJoaXN0b3J5IjpbNjY3ODQ1NTQ2LDE1MTM1MDkyNDMsMzg0OD
+U4NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkw
+NiwtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0OD
+QzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkz
+NDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
