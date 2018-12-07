@@ -107,6 +107,8 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 >"Ingresa el número que será la clave para tu código:"
 
 >//¿La persona entenderá que debe enviársela a la otra persona?
+		>No lo entienden, se cambia la frase a:
+	"¿Vas a cifrar? Crea o pega tu contrase
 
 - Usar las palabras “cifrar y “descifrar”
 
@@ -118,8 +120,8 @@ Reemplazar por “ocultar” “mostrar“
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjY5ODkwNiwtMTc0NTA2ODcwMiw1MT
-A5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3
-OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4Nj
-IzODAwMzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbMjU1MzUwMDYzLC03NTY2OTg5MDYsLTE3ND
+UwNjg3MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5
+LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xND
+I5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
 -->
