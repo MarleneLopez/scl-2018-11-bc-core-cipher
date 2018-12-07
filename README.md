@@ -133,9 +133,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 ![
 ](https://lh3.googleusercontent.com/P8OgZ-a1kOWGp6Wxa0StzgE9jGTvZm4QxxyJ86OUWClxhFtT7uyGIJgbDmTvzSOx2pq0b419enTC "web2")
-- Se cambio "cifrar" y "descifrar" por "ocultar" y "mostrar"
+- Se cambio "cifrar" y "descifrar" por palabras más comunes, "ocultar" y "mostrar".
+- Se cambiaron las instrucciones a palabras simples. Al "offset" se le camufla con la pa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODg5Mjg5NiwxNTEzNTA5MjQzLDM4ND
+eyJoaXN0b3J5IjpbMTY3MDE4MjIxNSwxNTEzNTA5MjQzLDM4ND
 g1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5
 MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxND
 g0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5
