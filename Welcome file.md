@@ -108,9 +108,9 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 >//¿La persona entenderá que debe enviársela a la otra persona?
 		>No lo entienden, se cambia la frase por una explicación en las instrucciones:
-		"Si serás quien ocultará el texto, debes crear una contraseña y enviarla junto con el texto oculto al receptor. Esta contraseña le permitirá descubrir cual es el verdadero texto.
+4. >"Si serás quien ocultará el texto, debes crear una contraseña y enviarla junto con el texto oculto al receptor. Esta contraseña le permitirá descubrir cual es el verdadero texto.
 		Si en cambio quieres descubrir un texto oculto, debes pegar la contraseña que te fue enviada."
-		>En página de cifrado: "Crea o pega tu contraseña:"
+		**>En página de cifrado: "Crea o pega tu contraseña:"**
 
 - Usar las palabras “cifrar y “descifrar”
 
@@ -122,8 +122,8 @@ Reemplazar por “ocultar” “mostrar“
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1Nzg1NjI3LC03NTY2OTg5MDYsLTE3ND
-UwNjg3MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5
-LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xND
-I5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNiwtMT
+c0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1
+MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLT
+E0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
