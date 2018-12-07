@@ -103,8 +103,7 @@ Se usó la frase: **"Crea o pega tu mensaje"** para hacerle saber a la persona q
 
 Los botones de **"Ocultar"** y **"Mostrar"** llevan colores distintos para demostrar que son acciones opuestas. Se ocupan también en las instrucciones, y en el logo.
 
-Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se mue
-
+Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestra la frase: **"¡Este es tu mensaje! Si lo vas a enviar, recuerda indicar la contraseña"**. Recordando una vez más que necesitan enviar el offset para que el mensaje pueda ser descifrado.
 
 
 # Testeos de Usuario
@@ -153,7 +152,7 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjM5ODI0MCwtMTIxMjcyMjE5NCwtMT
+eyJoaXN0b3J5IjpbLTYxMDMzNjA5MiwtMTIxMjcyMjE5NCwtMT
 cwOTg3MTkyMCwxNTEzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4
 OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MD
 IsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2
