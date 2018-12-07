@@ -137,3 +137,6 @@ Los botones de **"Ocultar"** y **"Mostrar"** llevan colores distintos para demos
 ](https://picasaweb.google.com/112666687935106469770/6632090072246968497#6632090072290707986 "web3")![
 ](https://lh3.googleusercontent.com/ep7Gm0oRkPSgr1eh3eYn80K3Z5OmI9PrkcdEAcuWU4UyhqKxYzClzR-7CAXAGaAUIB3ynKe5LLqk "web3")
 Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestra la frase: **"¡Este es tu mensaje! Si lo vas a enviar, recuerda indicar la contraseña"**. Recordando una vez más que necesitan enviar el offset para que el mensaje pueda ser descifrado.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NDk1OTczMjldfQ==
+-->
