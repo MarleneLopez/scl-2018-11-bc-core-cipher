@@ -3,6 +3,8 @@ window.onload = mostrar;
 function mostrar(){
   document.getElementById("root").style.display="block";
   document.getElementById("cesar").style.display="none";
+  document.getElementById("parrafoTextoEntregado").style.display="none";
+
 }
 
 //Botón comenzar, con prevent default para eliminar parpadeo
@@ -26,6 +28,8 @@ function mostrar(){
 //reemplazar mi parrafo vacio por resultado
   document.getElementById("textoEntregado").innerHTML = resultadoCodificar;
   //console.log(resultadoCodificar);
+  document.getElementById("parrafoTextoEntregado").style.display="block";
+
 })
 
 
@@ -40,6 +44,8 @@ function mostrar(){
 //reemplazar mi parrafo vacio por resultado
   document.getElementById("textoEntregado").innerHTML = resultadoDecodificar;
   //console.log(resultadoDecodificar);
+  document.getElementById("parrafoTextoEntregado").style.display="block";
+
 })
 
 
