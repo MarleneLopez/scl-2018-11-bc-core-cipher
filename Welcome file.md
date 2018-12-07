@@ -64,6 +64,10 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 ](https://lh3.googleusercontent.com/DFmIRfbsguZ6gFutI_bcSDLJrzQLPTm2WxH9_C7N2O0YUfKLW_3rs8p2frUOt8PiGTuATjUEOgpv "mockup1")
 ![
 ](https://lh3.googleusercontent.com/VBwNyqaI3gaxwu26ie9JpnJB-GtHiqlpfb8fDBnLJDSkRLR3XLMOLIUmjZjup_a0rujKIqLiujW0 "mockup2")
+![
+](https://lh3.googleusercontent.com/TMUPQDYnvLzI4fUXE0ERgJfLNCBYSoHRnshkOWJ1pGU7rqDLaFgP2WngAoAu4OkT0GN9EUKHxxf3 "mockup3")
+![
+](https://lh3.googleusercontent.com/qBjd6IK602FzRvdVsksU62-Gc8fnoXlcLg4nRzIG5yNdkYl-qpA00aOypiRfPGcZsyyp7KvwtX9T "mockup4")
 
 ## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
 
@@ -125,10 +129,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA0MTMwODYsLTE3MDk4NzE5MjAsMT
-UxMzUwOTI0MywzODQ4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3
-NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0My
-w2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0
-OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMS
-wtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbLTE5NTIzMzEwMCwtMTcwOTg3MTkyMCwxNT
+EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
+ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
+YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
+NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC
+03MjE2NjI1MDJdfQ==
 -->
