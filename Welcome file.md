@@ -95,11 +95,10 @@ En la segunda pantalla, la palabra **"offset"**, puede sonar confusa para quien 
 - Finalmente se cambió a **"Crea o pega tu contraseña numérica:"**
 >Las razones de estos cambios en el apartado Testeos de Usuario.
 
-Se usó la frase: **"Crea o pega tu mensaje"** para hacerle saber a la persona que no solo debo crea
+Se usó la frase: **"Crea o pega tu mensaje"** para hacerle saber a la persona que no solamente puedo ingresar ahí mi mensaje creado, sino que ahi también es donde se debe pegar un mensaje cifrado.
 
+Los botones de **"Ocultar"** y **"Mostrar"** llevan colores distintos para demostrar que son acciones opuestas. 
 
-- Los botones de **"Cifrar"** y **"Descifrar"** llevan colores distintos para demostrar que son acciones opuestas.
-- Se diseño el logo
 
 # Testeos de Usuario
 
@@ -147,10 +146,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTA0MjEzNiwtMTcwOTg3MTkyMCwxNT
-EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
-ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
-YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
-NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC
-03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTA0MjY5ODEsLTE3MDk4NzE5MjAsMT
+UxMzUwOTI0MywzODQ4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3
+NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0My
+w2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0
+OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMS
+wtNzIxNjYyNTAyXX0=
 -->
