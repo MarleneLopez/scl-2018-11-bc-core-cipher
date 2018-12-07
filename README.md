@@ -52,9 +52,12 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 ## Mapa de flujo para el desarrollo
 A partir de las historias de usuario se diseñaron mapas de flujo, los cuales recibieron iteraciones a medida que se recibía feedback del squad.
-
-![enter image description here](https://lh3.googleusercontent.com/cNeJhxqnJySwTb7p8cagwBF7YxOiZSdSZJGzR8m2cS-2eazMfyWGvbYxdf2nVyj7mGpNvVImq8i0 "mapa de flujo1")
-
+![
+](https://picasaweb.google.com/112666687935106469770/6632082481525797937#6632082485448178178 "mapadeflujo1")![
+](https://lh3.googleusercontent.com/bpmA51HtisjieVEbUyLEfto2iUTrNAuRHj9wrZO9yZac44DVfTD-hCmca-A40h6BoGlIht4mNXpR "mapadeflujo1")
+![enter image description here](https://lh3.googleusercontent.com/cNeJhxqnJySwTb7p8cagwBF7YxOiZSdSZJGzR8m2cS-2eazMfyWGvbYxdf2nVyj7mGpNvVImq8i0 "mapa de flujo2")
+![
+](https://lh3.googleusercontent.com/N-Y0y0f3TM5jqi3p28LPsBZtHJpC1DopQKH7naClczBzirIgEJNvhpUo8_0CZokbpkPJlv3pyYFE "mapadeflujo3")
 
 ## Mockup para desarrollo 
 
@@ -142,10 +145,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQyNjU3MTgsLTE3MDk4NzE5MjAsMT
-UxMzUwOTI0MywzODQ4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3
-NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0My
-w2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0
-OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMS
-wtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbMTk4NTIzMDM0OCwtMTcwOTg3MTkyMCwxNT
+EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
+ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
+YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
+NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC
+03MjE2NjI1MDJdfQ==
 -->
