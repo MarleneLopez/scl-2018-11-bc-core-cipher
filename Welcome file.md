@@ -129,14 +129,16 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 ![
 ](https://lh3.googleusercontent.com/y0hrofmeJAPhEopQaMDvZr4L17LMAEDehdCOjErrAOpoJ4NURMVEaHof0MRVsEK00meL0Q03IsoZ "web1")
-- Se cambió
+- Se cambiaron las instrucciones, para no generar confusiones. Se explica de forma más gráfica, cómo funciona el cifrado.
+
 ![
 ](https://lh3.googleusercontent.com/P8OgZ-a1kOWGp6Wxa0StzgE9jGTvZm4QxxyJ86OUWClxhFtT7uyGIJgbDmTvzSOx2pq0b419enTC "web2")
+- Se cambio "cifrar" y "descifrar" por "ocultar" y "mostrar"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIwMDExNTIsMTUxMzUwOTI0MywzOD
-Q4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4
-OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMT
-Q4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTEx
-OTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX
-0=
+eyJoaXN0b3J5IjpbLTM1ODg5Mjg5NiwxNTEzNTA5MjQzLDM4ND
+g1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5
+MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxND
+g0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5
+MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ
+==
 -->
