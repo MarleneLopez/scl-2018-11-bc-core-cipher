@@ -112,19 +112,19 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 		Si en cambio quieres descubrir un texto oculto, debes pegar la contraseña que te fue enviada."
 		**>En página de cifrado: "Crea o pega tu contraseña numérica:"**
 
-- Usar las palabras “cifrar y “descifrar”
+- Las palabras “cifrar y “descifrar” son confusas para algunas personas.
 
-1. >Reemplazar por “ocultar” “mostrar“
+1. >Se reemplaza por “ocultar” y “mostrar“
 
->
+- La gráfica de instrucciones tiene demasiado contenido y al ser una
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDk5MDM4MiwzODQ4NTg1NjEsMTIzMz
-c4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4
-NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMj
-Y4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2
-MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbNDQ4ODkxMDM0LDM4NDg1ODU2MSwxMjMzNz
+g4OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3
+MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNj
+g2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYw
+OSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
 -->
