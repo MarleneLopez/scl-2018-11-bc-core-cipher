@@ -94,10 +94,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 3. >"Ingresa el número que será la clave para tu código:"
 
 >//¿La persona entenderá que debe enviársela a la otra persona?
-		>No lo entienden, se cambia la frase por una explicación en las instrucciones:
+		>No entienden la razón de uso y tampoco la redacción, se cambia la frase por una explicación en las instrucciones:
 4. >"Si serás quien ocultará el texto, debes crear una contraseña numérica y enviarla junto con el texto oculto al receptor. Esta contraseña le permitirá descubrir cual es el verdadero texto.
 		Si en cambio quieres descubrir un texto oculto, debes pegar la contraseña que te fue enviada."
-		**>En página de cifrado: "Crea o pega tu contraseña numérica:"**
+		**>En página de cifrado: "Crea o pega tu contraseña numérica:"** Usamos la palabraIndicando que
 
 - Las palabras “cifrar y “descifrar” son confusas para algunas personas.
 
@@ -143,7 +143,7 @@ Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjY1NTAyNSw5MjAzNjM2NTgsLTEyMT
+eyJoaXN0b3J5IjpbLTYxNzIzMzc3Niw5MjAzNjM2NTgsLTEyMT
 I3MjIxOTQsLTE3MDk4NzE5MjAsMTUxMzUwOTI0MywzODQ4NTg1
 NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC
 0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5
