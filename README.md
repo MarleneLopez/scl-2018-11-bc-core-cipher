@@ -79,17 +79,6 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 ![
 ](https://lh3.googleusercontent.com/b9puFYcDa_gAsHnRd4_XPAKzDaR90Dy07hykdO8p1OxxzNZ9XwHhIvOpP0NKahq7y0mgL25YnBNo "webB")
 
-- Diseño final (más detalles en sección testeo y rediseño)
-![
-](https://lh3.googleusercontent.com/qjTIXogh-YsDeutCPCNjrucjtsE8PcbVBGBPocdAJ5Lp5p-WXxv9YyiwsA4pQkrqUV3qAnMGCuzK "web1")
-![
-](https://lh3.googleusercontent.com/B8N_CL1bv9etztZEJSL0B5Cak6aqmz3-q2t9rvAeijV1sC70pzVOVyQiQrWwoyxsQ8uCfQWZ3Ux7 "web2")
-![
-](https://picasaweb.google.com/112666687935106469770/6632088674809671697#6632088677799867602 "web3")
-![
-](https://picasaweb.google.com/112666687935106469770/6632090072246968497#6632090072290707986 "web3")![
-](https://lh3.googleusercontent.com/ep7Gm0oRkPSgr1eh3eYn80K3Z5OmI9PrkcdEAcuWU4UyhqKxYzClzR-7CAXAGaAUIB3ynKe5LLqk "web3")
-
 # Testeos de Usuario
 
 **Primer testeo, ***Feedback e Insights*****
@@ -120,6 +109,37 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 ](https://lh3.googleusercontent.com/XALy8XjskeSpkzrjsZxJZgHM4IzYsgI0gp3iVUK0PPKxvz9aH3dC-vWrn8_eMcJV5q1Rn72CVwIi "cifrarNueva")
 
 
+
+
+
+- Diseño final (más detalles en sección testeo y rediseño)
+![
+](https://lh3.googleusercontent.com/qjTIXogh-YsDeutCPCNjrucjtsE8PcbVBGBPocdAJ5Lp5p-WXxv9YyiwsA4pQkrqUV3qAnMGCuzK "web1")
+![
+](https://lh3.googleusercontent.com/B8N_CL1bv9etztZEJSL0B5Cak6aqmz3-q2t9rvAeijV1sC70pzVOVyQiQrWwoyxsQ8uCfQWZ3Ux7 "web2")
+![
+](https://picasaweb.google.com/112666687935106469770/6632088674809671697#6632088677799867602 "web3")
+![
+](https://picasaweb.google.com/112666687935106469770/6632090072246968497#6632090072290707986 "web3")![
+](https://lh3.googleusercontent.com/ep7Gm0oRkPSgr1eh3eYn80K3Z5OmI9PrkcdEAcuWU4UyhqKxYzClzR-7CAXAGaAUIB3ynKe5LLqk "web3")
+## Rediseño de la UI
+Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, 
+En la primera pantalla se muestran **"instrucciones gráficas"**, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado. Para una mejor comprensión, se usan las palabras **"ocultar"** y **"mostrar"**  en reemplazo de **"cifrado"** y **"descifrado"**.
+
+En la segunda pantalla, la palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. Para indicar que deben ingresar un número sin que hayan confusiones, se usó primero la frase :
+- **"Nivel de seguridad de tu código (Entre 1 - 10):"**
+- Luego se probó **"Ingresa el número que será la clave para tu código:"**
+- Finalmente se cambió a **"Crea o pega tu contraseña numérica:"**
+>Las razones de estos cambios en el apartado Testeos de Usuario.
+
+Se usó la frase: **"Crea o pega tu mensaje"** para hacerle saber a la persona que no solamente puedo ingresar ahí mi mensaje creado, sino que ahi también es donde se debe pegar un mensaje cifrado. Dentro del cuadro, muestra la advertencia de no ingresar la letra "Ñ".
+
+Los botones de **"Ocultar"** y **"Mostrar"** llevan colores distintos para demostrar que son acciones opuestas. Se ocupan también en las instrucciones, y en el logo.
+
+Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestra la frase: **"¡Este es tu mensaje! Si lo vas a enviar, recuerda indicar la contraseña"**. Recordando una vez más que necesitan enviar el offset para que el mensaje pueda ser descifrado.
+
+
+
 # Rediseño
 
 ![
@@ -135,10 +155,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg3MDgyOTksOTIwMzYzNjU4LC0xMj
-EyNzIyMTk0LC0xNzA5ODcxOTIwLDE1MTM1MDkyNDMsMzg0ODU4
-NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNi
-wtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQz
-OTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzND
-MsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbLTcyNjA0NzUxMCw5MjAzNjM2NTgsLTEyMT
+I3MjIxOTQsLTE3MDk4NzE5MjAsMTUxMzUwOTI0MywzODQ4NTg1
+NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC
+0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5
+OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0My
+wtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
 -->
