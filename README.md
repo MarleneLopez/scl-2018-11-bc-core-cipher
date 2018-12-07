@@ -45,8 +45,7 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 - Limpiar/volver a hacer
 
-	
-	
+
 > Más detalles de la planificación en este tablero de [Trello](https://trello.com/b/q14j2H8p/cifrado-césar).
 
 
@@ -59,7 +58,7 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 ![
 ](https://lh3.googleusercontent.com/N-Y0y0f3TM5jqi3p28LPsBZtHJpC1DopQKH7naClczBzirIgEJNvhpUo8_0CZokbpkPJlv3pyYFE "mapadeflujo3")
 
-## Mockup para desarrollo 
+## Mockup para desarrollo
 ![
 ](https://lh3.googleusercontent.com/DFmIRfbsguZ6gFutI_bcSDLJrzQLPTm2WxH9_C7N2O0YUfKLW_3rs8p2frUOt8PiGTuATjUEOgpv "mockup1")
 ![
@@ -69,7 +68,7 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 ![
 ](https://lh3.googleusercontent.com/qBjd6IK602FzRvdVsksU62-Gc8fnoXlcLg4nRzIG5yNdkYl-qpA00aOypiRfPGcZsyyp7KvwtX9T "mockup4")
 
-## **Desarrollo de Interfaz UI 
+## **Desarrollo de Interfaz UI
 
 - Diseño 1
 ![
@@ -86,11 +85,11 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 - "En el nivel de seguridad de código, todos querrán poner 10."
 
->Reemplazar por: 
+>Reemplazar por:
 1. >"Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)".
 
-2. >“Esta es la clave para descifrar el código”. 
- 
+2. >“Esta es la clave para descifrar el código”.
+
 3. >"Ingresa el número que será la clave para tu código:"
 
 >//¿La persona entenderá que debe enviársela a la otra persona?
@@ -138,7 +137,3 @@ Los botones de **"Ocultar"** y **"Mostrar"** llevan colores distintos para demos
 ](https://picasaweb.google.com/112666687935106469770/6632090072246968497#6632090072290707986 "web3")![
 ](https://lh3.googleusercontent.com/ep7Gm0oRkPSgr1eh3eYn80K3Z5OmI9PrkcdEAcuWU4UyhqKxYzClzR-7CAXAGaAUIB3ynKe5LLqk "web3")
 Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestra la frase: **"¡Este es tu mensaje! Si lo vas a enviar, recuerda indicar la contraseña"**. Recordando una vez más que necesitan enviar el offset para que el mensaje pueda ser descifrado.
-
-
-
-
