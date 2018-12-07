@@ -93,10 +93,11 @@ En la primera pantalla se muestran **"instrucciones gráficas"**, las que hacen 
 Acá la persona debe ingresar los datos. Se describe el ingreso de offset como “selecciona
 
 
-- La palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. Para indicar que deben ingresar un número sin que hayan confusiones, se usó primero la frase **"Nivel de seguridad de tu código (Entre 1 - 10):" **
+La palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. Para indicar que deben ingresar un número sin que hayan confusiones, se usó primero la frase :
+- **"Nivel de seguridad de tu código (Entre 1 - 10):"**
 - Luego se probó **"Ingresa el número que será la clave para tu código:"**
 - Finalmente se cambió a **"Crea o pega tu contraseña numérica:"**
-Mas detalles de
+>Las razones de estos cambios en el apartado Testeos de Usuario.
 
 
 - Los botones de **"Cifrar"** y **"Descifrar"** llevan colores distintos para demostrar que son acciones opuestas.
@@ -148,7 +149,7 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQxNDMyNywtMTcwOTg3MTkyMCwxNT
+eyJoaXN0b3J5IjpbMjEzNjk5MjcxNiwtMTcwOTg3MTkyMCwxNT
 EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
 ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
 YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
