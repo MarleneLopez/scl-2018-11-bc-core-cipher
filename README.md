@@ -117,14 +117,17 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 1. >Se reemplaza por “ocultar” y “mostrar“
 
 - La gráfica de instrucciones tiene demasiado contenido y al ser una captura de la pantalla de cifrado, la primera reacción de la persona es de interactuar con la imágen.
- 
 
+![
+](https://lh3.googleusercontent.com/XALy8XjskeSpkzrjsZxJZgHM4IzYsgI0gp3iVUK0PPKxvz9aH3dC-vWrn8_eMcJV5q1Rn72CVwIi "cifrarNueva")
+- Se reemplaza por la siguiente gráfica, la cual busca explicar de forma más simple y con un lenguaje distinto.
+- ç
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA1ODY2ODgsMzg0ODU4NTYxLDEyMz
-M3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNiwtMTc0NTA2
-ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1MjksLT
-I2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLTE0Mjky
-NjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbMTM1MjA0MjA3OCwzODQ4NTg1NjEsMTIzMz
+c4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4
+NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMj
+Y4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2
+MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
 -->
