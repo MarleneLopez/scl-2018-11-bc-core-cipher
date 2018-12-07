@@ -1,5 +1,6 @@
-# **Introducción al Proyecto**
-Bienvenido a **"PINsafe"**,  una plataforma que permite proteger tu información personal y enviarla de manera segura.
+# **PINsafe, Proyecto Cipher **
+  Bienvenido a "PINsafe",  una plataforma que permite enviar información de cuentas bancarias a través de canales poco seguros, de forma protegida.  </p>
+
 
 
 # **Definición del Usuario**
@@ -21,7 +22,7 @@ Cifrar información personal volviendola "secreta" y enviarla a través de un me
 
 ## **Experiencia**
 
-PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviar esta información a través canales poco seguros como wathsapp. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifrar el texto. La aplicación le entregará un mensaje cifrado para enviar a terceros o bien podrá descifar mensajes que se le hayapor medio de la aplicación La plataforma es simple de usar, y en pocos pasos  permite lograr el objetivo.
+PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviar esta información a través canales poco seguros como wathsapp. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifrar el texto. La aplicación le entregará un mensaje cifrado para enviar a terceros o bien podrá descifar mensajes que se le haya enviado ya cifrados. La plataforma es simple de usar, y en pocos pasos  permite lograr el objetivo.
 
 ## **Planificación**
 **Historias de usuario**
@@ -143,7 +144,7 @@ Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTAxNjg5OSw5MjAzNjM2NTgsLTEyMT
+eyJoaXN0b3J5IjpbLTY2NzAzMDQ4MSw5MjAzNjM2NTgsLTEyMT
 I3MjIxOTQsLTE3MDk4NzE5MjAsMTUxMzUwOTI0MywzODQ4NTg1
 NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC
 0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5
