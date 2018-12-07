@@ -87,12 +87,11 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 
 ## Detalles de la UI
 Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, 
-En la primera pantalla se muestran **"instrucciones gráficas"**, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado, .
+En la primera pantalla se muestran **"instrucciones gráficas"**, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado. Para una mejor comprensión, se usan las palabras **"ocultar"** y **"mostrar"**  en reemplazo de **"cifrado"** y **"descifrado"**.
 
 
 Acá la persona debe ingresar los datos. Se describe el ingreso de offset como “selecciona
 
-- En la primera pantalla se mostrarán **instrucciones gráficas** de uso, para que especificamente no hayan confusiones entre la palabra **"Cifrado"** y **"Descifrado"**
 
 - La palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. Para indicar que deben ingresar un número sin que hayan confusiones, se usará la frase **"Nivel de seguridad de tu código (Entre 1 - 10):" **
 - Los botones de **"Cifrar"** y **"Descifrar"** llevan colores distintos para demostrar que son acciones opuestas.
@@ -144,10 +143,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NDQ5MDQyLC0xNzA5ODcxOTIwLDE1MT
-M1MDkyNDMsMzg0ODU4NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4
-MzcsLTc1NjY5ODkwNiwtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNj
-A0ODkyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0
-NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLT
-cyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbMTU0MzYxMTY1NywtMTcwOTg3MTkyMCwxNT
+EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
+ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
+YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
+NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC
+03MjE2NjI1MDJdfQ==
 -->
