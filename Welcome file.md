@@ -1,5 +1,5 @@
-# **Introducción al Proyecto**
-Bienvenido a **"PINsafe"**,  una plataforma que permite proteger tu información personal y enviarla de manera segura.
+# **PINsafe, Proyecto Cipher **
+  Bienvenido a "PINsafe",  una plataforma que permite enviar información de cuentas bancarias a través de canales poco seguros, de forma protegida.  
 
 
 # **Definición del Usuario**
@@ -21,7 +21,7 @@ Cifrar información personal volviendola "secreta" y enviarla a través de un me
 
 ## **Experiencia**
 
-PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviar esta información a través canales poco seguros como wathsapp. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifrar el texto. La aplicación le entregará un mensaje cifrado para enviar a terceros o bien podrá descifar mensajes que se le haya enviadopor medio de la aplicación La plataforma es simple de usar, y en pocos pasos  permite lograr el objetivo.
+PINsafe, es una plataforma que permite cifrar información personal como datos de tarjetas de crédito y enviar esta información a través canales poco seguros como wathsapp. A través del Cifrado César, el usuario deberá escribir su texto e indicar un número de desplazamiento, mismo número que será necesario al momento de querer descifrar el texto. La aplicación le entregará un mensaje cifrado para enviar a terceros o bien podrá descifar mensajes que se le haya enviado ya cifrados. La plataforma es simple de usar, y en pocos pasos  permite lograr el objetivo.
 
 ## **Planificación**
 **Historias de usuario**
@@ -143,10 +143,10 @@ Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMzE0MTI1LDkyMDM2MzY1OCwtMTIxMj
-cyMjE5NCwtMTcwOTg3MTkyMCwxNTEzNTA5MjQzLDM4NDg1ODU2
-MSwxMjMzNzg4OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5MDYsLT
-E3NDUwNjg3MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5
-NTI5LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC
-0xNDI5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTExNzU2NzMxODIsOTIwMzYzNjU4LC0xMj
+EyNzIyMTk0LC0xNzA5ODcxOTIwLDE1MTM1MDkyNDMsMzg0ODU4
+NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNi
+wtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQz
+OTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzND
+MsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
