@@ -85,6 +85,7 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 ![
 ](https://lh3.googleusercontent.com/B8N_CL1bv9etztZEJSL0B5Cak6aqmz3-q2t9rvAeijV1sC70pzVOVyQiQrWwoyxsQ8uCfQWZ3Ux7 "web2")
 
+
 ## Detalles de la UI
 Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, 
 En la primera pantalla se muestran **"instrucciones gráficas"**, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado. Para una mejor comprensión, se usan las palabras **"ocultar"** y **"mostrar"**  en reemplazo de **"cifrado"** y **"descifrado"**.
@@ -98,7 +99,7 @@ En la segunda pantalla, la palabra **"offset"**, puede sonar confusa para quien 
 Se usó la frase: **"Crea o pega tu mensaje"** para hacerle saber a la persona que no solamente puedo ingresar ahí mi mensaje creado, sino que ahi también es donde se debe pegar un mensaje cifrado.
 
 Los botones de **"Ocultar"** y **"Mostrar"** llevan colores distintos para demostrar que son acciones opuestas. 
-- Se diseño el
+
 
 # Testeos de Usuario
 
@@ -146,10 +147,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjA5Mjk0MiwtMTcwOTg3MTkyMCwxNT
-EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
-ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
-YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
-NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC
-03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbMTYzNzA1Mzg5LC0xNzA5ODcxOTIwLDE1MT
+M1MDkyNDMsMzg0ODU4NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4
+MzcsLTc1NjY5ODkwNiwtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNj
+A0ODkyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0
+NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAwMzEsLT
+cyMTY2MjUwMl19
 -->
