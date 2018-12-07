@@ -122,12 +122,15 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 ](https://lh3.googleusercontent.com/XALy8XjskeSpkzrjsZxJZgHM4IzYsgI0gp3iVUK0PPKxvz9aH3dC-vWrn8_eMcJV5q1Rn72CVwIi "cifrarNueva")
 - Se reemplaza por la siguiente gráfica, la cual busca explicar de forma más simple y con un lenguaje distinto.
 
+![
+![
+](https://picasaweb.google.com/112666687935106469770/6632077469215212049#6632077467100612738 "cifrarNueva")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NzI4MjYsMzg0ODU4NTYxLDEyMzM3OD
-g5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNiwtMTc0NTA2ODcw
-Miw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1MjksLTI2OD
-Y1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5
-LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbNDYxMjU5NjIzLDM4NDg1ODU2MSwxMjMzNz
+g4OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3
+MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNj
+g2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYw
+OSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
 -->
