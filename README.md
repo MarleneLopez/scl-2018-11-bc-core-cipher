@@ -107,8 +107,9 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 >"Ingresa el número que será la clave para tu código:"
 
 >//¿La persona entenderá que debe enviársela a la otra persona?
-		>No lo entienden, se cambia la frase a:
-	"¿Vas a cifrar? Crea o pega t
+		>No lo entienden, se cambia la frase por una explicación en las instrucciones.
+		Si serás quien ocultará el texto debes crear una contraseña que luego debes enviar junto con al receptor
+	>Crea o pega tu contraseña
 
 - Usar las palabras “cifrar y “descifrar”
 
@@ -120,7 +121,7 @@ Reemplazar por “ocultar” “mostrar“
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg2NDI3MSwtNzU2Njk4OTA2LC0xNz
+eyJoaXN0b3J5IjpbMTc5MTgyNTIwOSwtNzU2Njk4OTA2LC0xNz
 Q1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5OTUy
 OSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0MywtMT
 QyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
