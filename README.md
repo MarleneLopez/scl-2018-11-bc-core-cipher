@@ -116,15 +116,15 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 1. >Se reemplaza por “ocultar” y “mostrar“
 
-- La gráfica de instrucciones tiene demasiado contenido y al ser una
+- La gráfica de instrucciones tiene demasiado contenido y al ser una captura de la pantalla de cifrado, la primera reacción de la persona es de interactuar con la imágen.
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4ODkxMDM0LDM4NDg1ODU2MSwxMjMzNz
-g4OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3
-MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNj
-g2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYw
-OSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbLTE5MDA1ODY2ODgsMzg0ODU4NTYxLDEyMz
+M3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNiwtMTc0NTA2
+ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1MjksLT
+I2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLTE0Mjky
+NjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
