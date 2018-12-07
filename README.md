@@ -1,5 +1,5 @@
 # **Introducción al Proyecto**
-**"PINsafe"**, es una plataforma que permite cifrar información personal y enviarla de manera segura.
+Bienvenido a **"PINsafe"**,  una plataforma que permite proteger tu información personal y enviarla de manera segura.
 
 
 # **Definición del Usuario**
@@ -122,8 +122,9 @@ Reemplazar por “ocultar” “mostrar“
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNiwtMT
-c0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1
-MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLT
-E0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNz
+U2Njk4OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIx
+NzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMT
+A5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYy
+NTAyXX0=
 -->
