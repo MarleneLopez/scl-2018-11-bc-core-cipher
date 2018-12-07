@@ -108,7 +108,8 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 >//¿La persona entenderá que debe enviársela a la otra persona?
 		>No lo entienden, se cambia la frase por una explicación en las instrucciones.
-		Si serás quien ocultará el texto debes crear una contraseña que luego debes enviar junto con al receptor
+		Si serás quien ocultará el texto, debes crear una contraseña y enviarla junto con el texto oculto al receptor. Esta contraseña le permitirá descubrir cual es el verdadero texto.
+		Si en cambio quieres de
 	>Crea o pega tu contraseña
 
 - Usar las palabras “cifrar y “descifrar”
@@ -121,7 +122,7 @@ Reemplazar por “ocultar” “mostrar“
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTgyNTIwOSwtNzU2Njk4OTA2LC0xNz
+eyJoaXN0b3J5IjpbMTQ4NTMxNTczOCwtNzU2Njk4OTA2LC0xNz
 Q1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5OTUy
 OSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0MywtMT
 QyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
