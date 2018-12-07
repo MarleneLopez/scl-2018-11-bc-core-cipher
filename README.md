@@ -71,7 +71,8 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 
 ## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
 
-
+![
+](https://picasaweb.google.com/112666687935106469770/6632084456591481297#6632084454888847426 "webA")
 Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, la primera donde se pueden ver las instrucciones, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado.
 
 
@@ -129,7 +130,7 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIzMzEwMCwtMTcwOTg3MTkyMCwxNT
+eyJoaXN0b3J5IjpbMTEwOTEzOTYzOSwtMTcwOTg3MTkyMCwxNT
 EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
 ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
 YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
