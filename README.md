@@ -1,6 +1,5 @@
 # **PINsafe, Proyecto Cipher **
-  Bienvenido a "PINsafe",  una plataforma que permite enviar información de cuentas bancarias a través de canales poco seguros, de forma protegida.  </p>
-
+  Bienvenido a "PINsafe",  una plataforma que permite enviar información de cuentas bancarias a través de canales poco seguros, de forma protegida.  
 
 
 # **Definición del Usuario**
@@ -144,10 +143,10 @@ Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzAzMDQ4MSw5MjAzNjM2NTgsLTEyMT
-I3MjIxOTQsLTE3MDk4NzE5MjAsMTUxMzUwOTI0MywzODQ4NTg1
-NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC
-0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5
-OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0My
-wtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbLTExNzU2NzMxODIsOTIwMzYzNjU4LC0xMj
+EyNzIyMTk0LC0xNzA5ODcxOTIwLDE1MTM1MDkyNDMsMzg0ODU4
+NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNi
+wtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQz
+OTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzND
+MsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
