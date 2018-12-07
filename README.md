@@ -51,7 +51,8 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 
 ## Mapa de flujo para el desarrollo
-A partir de las historias de usuario se diseñaron mapa
+A partir de las historias de usuario se diseñaron mapas de flujo, los cuales recibieron iteraciones a medida que se recibía feedback del squad.
+
 
 
 ## Mockup para desarrollo 
@@ -140,10 +141,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg3MDEyNTAsLTE3MDk4NzE5MjAsMT
-UxMzUwOTI0MywzODQ4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3
-NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0My
-w2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0
-OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMS
-wtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbLTY0ODE3ODI5NiwtMTcwOTg3MTkyMCwxNT
+EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
+ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
+YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
+NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYwOSwxODYyMzgwMDMxLC
+03MjE2NjI1MDJdfQ==
 -->
