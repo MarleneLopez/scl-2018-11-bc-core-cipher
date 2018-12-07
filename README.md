@@ -110,11 +110,11 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 		>No lo entienden, se cambia la frase por una explicación en las instrucciones:
 4. >"Si serás quien ocultará el texto, debes crear una contraseña numérica y enviarla junto con el texto oculto al receptor. Esta contraseña le permitirá descubrir cual es el verdadero texto.
 		Si en cambio quieres descubrir un texto oculto, debes pegar la contraseña que te fue enviada."
-		**>En página de cifrado: "Crea o pega tu contraseña:"**
+		**>En página de cifrado: "Crea o pega tu contraseña numérica:"**
 
 - Usar las palabras “cifrar y “descifrar”
 
-Reemplazar por “ocultar” “mostrar“
+1. >Reemplazar por “ocultar” “mostrar“
 
 >
  
@@ -122,9 +122,9 @@ Reemplazar por “ocultar” “mostrar“
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0ODU4NTYxLDEyMzM3ODg5NDMsLTEyMz
-I4Nzc4MzcsLTc1NjY5ODkwNiwtMTc0NTA2ODcwMiw1MTA5NDc5
-NDMsNjA0ODkyMTcyLDE0ODQzOTk1MjksLTI2ODY1OTY3OSw5Mz
-QzNDk0NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5LDE4NjIzODAw
-MzEsLTcyMTY2MjUwMl19
+eyJoaXN0b3J5IjpbMTUxNDk5MDM4MiwzODQ4NTg1NjEsMTIzMz
+c4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4
+NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMj
+Y4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2
+MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
 -->
