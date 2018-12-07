@@ -1,4 +1,4 @@
-window.onload = mostrar;
+window.onload = mostrar; 
 
 function mostrar(){
   document.getElementById("root").style.display="block";
