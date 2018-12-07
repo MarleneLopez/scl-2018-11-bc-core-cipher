@@ -71,8 +71,16 @@ A partir de las historias de usuario se diseñaron mapas de flujo, los cuales re
 
 ## **Desarrollo de Interfaz UI (detalle del funcionamiento)**
 
+
 ![
-](https://picasaweb.google.com/112666687935106469770/6632084456591481297#6632084454888847426 "webA")
+](https://lh3.googleusercontent.com/Rbq2S5NuQO0HxiIldx3S4BQgMknBl-DL1pafpv82PjuDwgSjT9F6IFXtJmHzYP5dEU3c-YcZEVo4 "webA")
+
+
+![
+](https://lh3.googleusercontent.com/b9puFYcDa_gAsHnRd4_XPAKzDaR90Dy07hykdO8p1OxxzNZ9XwHhIvOpP0NKahq7y0mgL25YnBNo "webB")
+
+![
+](https://lh3.googleusercontent.com/qjTIXogh-YsDeutCPCNjrucjtsE8PcbVBGBPocdAJ5Lp5p-WXxv9YyiwsA4pQkrqUV3qAnMGCuzK "web1")
 Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, la primera donde se pueden ver las instrucciones, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado.
 
 
@@ -130,7 +138,7 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTEzOTYzOSwtMTcwOTg3MTkyMCwxNT
+eyJoaXN0b3J5IjpbMTc4Mzk5MjcyMCwtMTcwOTg3MTkyMCwxNT
 EzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4OTQzLC0xMjMyODc3
 ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MDIsNTEwOTQ3OTQzLD
 YwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2NTk2NzksOTM0MzQ5
