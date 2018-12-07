@@ -134,16 +134,15 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 ![
 ](https://lh3.googleusercontent.com/XALy8XjskeSpkzrjsZxJZgHM4IzYsgI0gp3iVUK0PPKxvz9aH3dC-vWrn8_eMcJV5q1Rn72CVwIi "cifrarNueva")
-- Se reemplaza por la siguiente gráfica, la cual busca explicar de forma más simple y con un lenguaje distinto. Además se explica rapidamente la funcionalidad de la "contraseña".
 
-![
-](https://lh3.googleusercontent.com/xjFjGh_B0RaDSPVhzu2IvFCGRDQtE3dtlPkPpyx87L-YcLROiGq_BqX_OCrVqKGGZGYoRg6dPYEF "cifrarNueva")
 
 # Rediseño
 
 ![
 ](https://lh3.googleusercontent.com/y0hrofmeJAPhEopQaMDvZr4L17LMAEDehdCOjErrAOpoJ4NURMVEaHof0MRVsEK00meL0Q03IsoZ "web1")
 - Se cambiaron las instrucciones, para no generar confusiones. Se explica de forma más gráfica, cómo funciona el cifrado.
+![
+](https://lh3.googleusercontent.com/k16CQY7Gb_ymggwI2Sh32enLXHkGF-LmBo28kdDGg5utCNf39BIiwKltS3SE8COqrX7mxEG8DbWN "cifrarNueva")
 
 ![
 ](https://lh3.googleusercontent.com/P8OgZ-a1kOWGp6Wxa0StzgE9jGTvZm4QxxyJ86OUWClxhFtT7uyGIJgbDmTvzSOx2pq0b419enTC "web2")
@@ -152,10 +151,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDMzNjA5MiwtMTIxMjcyMjE5NCwtMT
-cwOTg3MTkyMCwxNTEzNTA5MjQzLDM4NDg1ODU2MSwxMjMzNzg4
-OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3MD
-IsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNjg2
-NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYwOS
-wxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbOTIwMzYzNjU4LC0xMjEyNzIyMTk0LC0xNz
+A5ODcxOTIwLDE1MTM1MDkyNDMsMzg0ODU4NTYxLDEyMzM3ODg5
+NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNiwtMTc0NTA2ODcwMi
+w1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQzOTk1MjksLTI2ODY1
+OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzNDMsLTE0MjkyNjA5LD
+E4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
