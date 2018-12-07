@@ -47,11 +47,11 @@ Para poder realizar la planificación se enlistaron las siguientes historias de 
 
 	
 	
-> Written with [StackEdit](https://stackedit.io/).
+> Más detalles de la planificación en este tablero de [Trello](https://trello.com/b/q14j2H8p/cifrado-césar).
 
 
 ## Mapa de flujo para el desarrollo
-
+A partir de las historias de usuario se diseñaron mapa
 
 
 ## Mockup para desarrollo 
@@ -140,10 +140,10 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk4NzE5MjAsMTUxMzUwOTI0MywzOD
-Q4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4
-OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMT
-Q4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTEx
-OTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX
-0=
+eyJoaXN0b3J5IjpbLTEwNDg3MDEyNTAsLTE3MDk4NzE5MjAsMT
+UxMzUwOTI0MywzODQ4NTg1NjEsMTIzMzc4ODk0MywtMTIzMjg3
+NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4NzAyLDUxMDk0Nzk0My
+w2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMjY4NjU5Njc5LDkzNDM0
+OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2MDksMTg2MjM4MDAzMS
+wtNzIxNjYyNTAyXX0=
 -->
