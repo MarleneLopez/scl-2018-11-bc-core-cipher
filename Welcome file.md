@@ -120,17 +120,16 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 ![
 ](https://lh3.googleusercontent.com/XALy8XjskeSpkzrjsZxJZgHM4IzYsgI0gp3iVUK0PPKxvz9aH3dC-vWrn8_eMcJV5q1Rn72CVwIi "cifrarNueva")
-- Se reemplaza por la siguiente gráfica, la cual busca explicar de forma más simple y con un lenguaje distinto.
+- Se reemplaza por la siguiente gráfica, la cual busca explicar de forma más simple y con un lenguaje distinto. Además se explica rapidamente la funcionalidad de la "contraseña".
 
 ![
-![
-](https://picasaweb.google.com/112666687935106469770/6632077469215212049#6632077467100612738 "cifrarNueva")
+](https://lh3.googleusercontent.com/xjFjGh_B0RaDSPVhzu2IvFCGRDQtE3dtlPkPpyx87L-YcLROiGq_BqX_OCrVqKGGZGYoRg6dPYEF "cifrarNueva")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMjU5NjIzLDM4NDg1ODU2MSwxMjMzNz
-g4OTQzLC0xMjMyODc3ODM3LC03NTY2OTg5MDYsLTE3NDUwNjg3
-MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5LC0yNj
-g2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xNDI5MjYw
-OSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
+eyJoaXN0b3J5IjpbMTUxMzUwOTI0MywzODQ4NTg1NjEsMTIzMz
+c4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC0xNzQ1MDY4
+NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5OTUyOSwtMj
+Y4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0MywtMTQyOTI2
+MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
 -->
