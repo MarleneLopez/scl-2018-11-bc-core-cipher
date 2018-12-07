@@ -6,7 +6,7 @@ Bienvenido a **"PINsafe"**,  una plataforma que permite proteger tu información
 ## **Usuario**
 
 
-Persona que necesita enviar información confidencial, como los datos de una tarjeta de crédito, al dueño de esta tarjeta que olvido portarla.
+Persona que necesita enviar por mensaje via internet, información confidencial, como los datos de una tarjeta de crédito, al dueño de esta tarjeta que olvido portarla.
 
 
 ## **Necesidades**
@@ -97,7 +97,7 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 		>No entienden la razón de uso y tampoco la redacción, se cambia la frase por una explicación en las instrucciones:
 4. >"Si serás quien ocultará el texto, debes crear una contraseña numérica y enviarla junto con el texto oculto al receptor. Esta contraseña le permitirá descubrir cual es el verdadero texto.
 		Si en cambio quieres descubrir un texto oculto, debes pegar la contraseña que te fue enviada."
-		**>En página de cifrado: "Crea o pega tu contraseña numérica:"** Usamos la palabraIndicando que
+		**>En página de cifrado: "Crea o pega tu contraseña numérica:"** Usamos la palabra contraseña, dandole mayor importancia y una razón simple. Indicamos que el valor debe ser numérico, para que no hayan errores.
 
 - Las palabras “cifrar y “descifrar” son confusas para algunas personas.
 
@@ -143,7 +143,7 @@ Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzIzMzc3Niw5MjAzNjM2NTgsLTEyMT
+eyJoaXN0b3J5IjpbMTkyODQxNjc2MSw5MjAzNjM2NTgsLTEyMT
 I3MjIxOTQsLTE3MDk4NzE5MjAsMTUxMzUwOTI0MywzODQ4NTg1
 NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC
 0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5
