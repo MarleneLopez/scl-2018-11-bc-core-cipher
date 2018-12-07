@@ -100,17 +100,17 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 - "En el nivel de seguridad de código, todos querrán poner 10."
 
 >Reemplazar por: 
->"Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)".
+1. >"Elige un número del 1 al 10. (Este es el número secreto que permitirá descifrar tu código)".
 
->“Esta es la clave para descifrar el código”. 
+2. >“Esta es la clave para descifrar el código”. 
  
 >"Ingresa el número que será la clave para tu código:"
 
 >//¿La persona entenderá que debe enviársela a la otra persona?
-		>No lo entienden, se cambia la frase por una explicación en las instrucciones.
-		Si serás quien ocultará el texto, debes crear una contraseña y enviarla junto con el texto oculto al receptor. Esta contraseña le permitirá descubrir cual es el verdadero texto.
-		Si en cambio quieres de
-	>Crea o pega tu contraseña
+		>No lo entienden, se cambia la frase por una explicación en las instrucciones:
+		"Si serás quien ocultará el texto, debes crear una contraseña y enviarla junto con el texto oculto al receptor. Esta contraseña le permitirá descubrir cual es el verdadero texto.
+		Si en cambio quieres descubrir un texto oculto, debes pegar la contraseña que te fue enviada."
+		>En página de cifrado: "Crea o pega tu contraseña:"
 
 - Usar las palabras “cifrar y “descifrar”
 
@@ -122,8 +122,8 @@ Reemplazar por “ocultar” “mostrar“
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTMxNTczOCwtNzU2Njk4OTA2LC0xNz
-Q1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5OTUy
-OSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0MywtMT
-QyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbNTU0NTc4NDQwLC03NTY2OTg5MDYsLTE3ND
+UwNjg3MDIsNTEwOTQ3OTQzLDYwNDg5MjE3MiwxNDg0Mzk5NTI5
+LC0yNjg2NTk2NzksOTM0MzQ5NDc2LC0xMDkxMTE5MzQzLC0xND
+I5MjYwOSwxODYyMzgwMDMxLC03MjE2NjI1MDJdfQ==
 -->
