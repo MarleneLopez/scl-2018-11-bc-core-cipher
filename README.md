@@ -112,20 +112,16 @@ La persona comprende el concepto y funcionamiento. Comenta lo siguiente:
 
 
 
-- Diseño final (más detalles en sección testeo y rediseño)
+
+## Rediseño de la UI
+Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas.
+
 ![
 ](https://lh3.googleusercontent.com/qjTIXogh-YsDeutCPCNjrucjtsE8PcbVBGBPocdAJ5Lp5p-WXxv9YyiwsA4pQkrqUV3qAnMGCuzK "web1")
-![
-](https://lh3.googleusercontent.com/B8N_CL1bv9etztZEJSL0B5Cak6aqmz3-q2t9rvAeijV1sC70pzVOVyQiQrWwoyxsQ8uCfQWZ3Ux7 "web2")
-![
-](https://picasaweb.google.com/112666687935106469770/6632088674809671697#6632088677799867602 "web3")
-![
-](https://picasaweb.google.com/112666687935106469770/6632090072246968497#6632090072290707986 "web3")![
-](https://lh3.googleusercontent.com/ep7Gm0oRkPSgr1eh3eYn80K3Z5OmI9PrkcdEAcuWU4UyhqKxYzClzR-7CAXAGaAUIB3ynKe5LLqk "web3")
-## Rediseño de la UI
-Para realizar de manera fácil el envío de esta información, la aplicación consta solo de dos pantallas, 
 En la primera pantalla se muestran **"instrucciones gráficas"**, las que hacen énfasis en mostrar la diferencia entre el cifrado y descifrado. Para una mejor comprensión, se usan las palabras **"ocultar"** y **"mostrar"**  en reemplazo de **"cifrado"** y **"descifrado"**.
 
+![
+](https://lh3.googleusercontent.com/B8N_CL1bv9etztZEJSL0B5Cak6aqmz3-q2t9rvAeijV1sC70pzVOVyQiQrWwoyxsQ8uCfQWZ3Ux7 "web2")
 En la segunda pantalla, la palabra **"offset"**, puede sonar confusa para quien este usando la plataforma. Para indicar que deben ingresar un número sin que hayan confusiones, se usó primero la frase :
 - **"Nivel de seguridad de tu código (Entre 1 - 10):"**
 - Luego se probó **"Ingresa el número que será la clave para tu código:"**
@@ -140,25 +136,17 @@ Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestr
 
 
 
-# Rediseño
-
 ![
-](https://lh3.googleusercontent.com/y0hrofmeJAPhEopQaMDvZr4L17LMAEDehdCOjErrAOpoJ4NURMVEaHof0MRVsEK00meL0Q03IsoZ "web1")
-- Se cambiaron las instrucciones, para no generar confusiones. Se explica de forma más gráfica, cómo funciona el cifrado.
+](https://picasaweb.google.com/112666687935106469770/6632088674809671697#6632088677799867602 "web3")
 ![
-](https://lh3.googleusercontent.com/k16CQY7Gb_ymggwI2Sh32enLXHkGF-LmBo28kdDGg5utCNf39BIiwKltS3SE8COqrX7mxEG8DbWN "cifrarNueva")
+](https://picasaweb.google.com/112666687935106469770/6632090072246968497#6632090072290707986 "web3")![
+](https://lh3.googleusercontent.com/ep7Gm0oRkPSgr1eh3eYn80K3Z5OmI9PrkcdEAcuWU4UyhqKxYzClzR-7CAXAGaAUIB3ynKe5LLqk "web3")
 
-![
-](https://lh3.googleusercontent.com/P8OgZ-a1kOWGp6Wxa0StzgE9jGTvZm4QxxyJ86OUWClxhFtT7uyGIJgbDmTvzSOx2pq0b419enTC "web2")
-- Se cambio "cifrar" y "descifrar" por palabras más comunes, "ocultar" y "mostrar".
-- Se cambiaron las instrucciones a palabras simples. Al "offset" se le camufla con la palabra "contraseña" y se especifíca que esta sea numérica.
-
-Maqueta aún por testear.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjA0NzUxMCw5MjAzNjM2NTgsLTEyMT
-I3MjIxOTQsLTE3MDk4NzE5MjAsMTUxMzUwOTI0MywzODQ4NTg1
-NjEsMTIzMzc4ODk0MywtMTIzMjg3NzgzNywtNzU2Njk4OTA2LC
-0xNzQ1MDY4NzAyLDUxMDk0Nzk0Myw2MDQ4OTIxNzIsMTQ4NDM5
-OTUyOSwtMjY4NjU5Njc5LDkzNDM0OTQ3NiwtMTA5MTExOTM0My
-wtMTQyOTI2MDksMTg2MjM4MDAzMSwtNzIxNjYyNTAyXX0=
+eyJoaXN0b3J5IjpbLTEzNTIxMTUyMjgsOTIwMzYzNjU4LC0xMj
+EyNzIyMTk0LC0xNzA5ODcxOTIwLDE1MTM1MDkyNDMsMzg0ODU4
+NTYxLDEyMzM3ODg5NDMsLTEyMzI4Nzc4MzcsLTc1NjY5ODkwNi
+wtMTc0NTA2ODcwMiw1MTA5NDc5NDMsNjA0ODkyMTcyLDE0ODQz
+OTk1MjksLTI2ODY1OTY3OSw5MzQzNDk0NzYsLTEwOTExMTkzND
+MsLTE0MjkyNjA5LDE4NjIzODAwMzEsLTcyMTY2MjUwMl19
 -->
