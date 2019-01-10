@@ -4,18 +4,6 @@
 
 
 ![
-](https://lh3.googleusercontent.com/eXtrpG7GUjXSwbdqE83SCH4w0JaZywwupSbSAVuzmoaSs7ShLXkvL7Zb5PVcBIznCEROs9yGQLVS "Prototipo 5C")
-
-![
-](https://lh3.googleusercontent.com/ox9L1V6ByEnE1HUujRHj_-dGUq72Csj5PSq652RoKGMkl64oEzX0zo8Yh7Oazmef1MJQrS0HIq_n "Prototipo 5B")
-
-
-
-![
-](https://lh3.googleusercontent.com/8Rez-lC2tHOk_NAb2lu_8UDbBbVh5TyibM-z3qRKRykfSlQDMbzceopSZRgkWo7Wh7aF6n7AcZ_0 "Prototipo 5A")
-
-
-![
 ](https://lh3.googleusercontent.com/3VWFipJmOgBeaMMFLirbFAjzm08_dKUplftLY5B9HLePzhZwS33qTTyXkHBSGQnchEnx39KQl5aj "Header")
 
 
@@ -158,6 +146,6 @@ Los botones de **"Ocultar"** y **"Mostrar"** llevan colores distintos para demos
 Al presionar ocultar o mostrar un mensaje, junto con el nuevo mensaje, se muestra la frase: **"¡Este es tu mensaje! Si lo vas a enviar, recuerda indicar la contraseña"**. Recordando una vez más que necesitan enviar el offset para que el mensaje pueda ser descifrado.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MDQ2ODcsMTQ3NDc4MjEwNyw4NzQxND
-MxMDNdfQ==
+eyJoaXN0b3J5IjpbMTk1OTk4Mjg1NywxNDc0NzgyMTA3LDg3ND
+E0MzEwM119
 -->
