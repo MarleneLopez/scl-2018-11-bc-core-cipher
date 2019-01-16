@@ -1,57 +1,59 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
 
-<header><a href="#"><img src="img/logo8.jpg"
-  alt=""></a></header>
+<head>
+  <meta charset="utf-8">
+  <title>Caesar Cipher</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
 
-<div id="root">
-<!--<h1>PINsafe</h1>-->
-<form>
-  <p>Bienvenido a "PINsafe",  una plataforma que permite enviar información de cuentas bancarias a través de canales poco seguros, de forma protegida.  </p>
-  <h2>¿Cómo funciona?</h2>
-  <img id= "imagenizq" src="img/ocultar.png">
-  <img id= "imagender" src="img/mostrar.png">
-<footer>
-<div id ="comenzar">
-  <button  > <strong>CONTINUAR</strong> </button>
-</div>
-</footer>
-</form>
-</div>
+<body>
 
-<div id="cesar">
-<form>
-     <!--<p>Ingresa el nivel de seguridad de tu código</p>-->
-    <label for="inputOffset"> 1. Crea o pega tu contraseña numérica</label>
+  <header><a href="#"><img src="img/logo9.jpg" alt=""></a></header>
 
-  <input type="number" id = "inputOffset" placeholder = "Ej: 33" name="quantity" min="1" max="10">
-       <!-- <input type = "tel" id = "inputOffset"></input> -->
-        <p>2. Crea o pega tu mensaje</p>
-     <p id="error"> </p>
+  <div id="root">
+    <form>
+      <section class="titulo">
+      <p>Bienvenido a "PINsafe", una plataforma que permite enviar información de cuentas bancarias a través de canales
+        poco seguros, de forma protegida. </p> 
+      <h2> ¿Cómo funciona? </h2>
+    
+      <img id="imagenizq" src="img/ocultar.png">
+      <img id="imagender" src="img/mostrar.png">
+    </section>
 
-  <input type = "text" id = "inputTexto" placeholder = "Puedes ingresar sólo letras, exceptuando la `ñ`. " name = "text-example"
-           required>
+      <section id="comenzar">
+        <button class="button1"> <strong>CONTINUAR</strong> </button>
+      </section>
+
+    </form>
+  </div>
+
+  <div id="cesar">
+    <form>
+      <label for="inputOffset"> 1. Crea o pega tu contraseña numérica</label>
+
+      <input type="number" id="inputOffset" placeholder="Ej: 33" name="quantity" min="1" max="10">
+      <p>2. Crea o pega tu mensaje</p>
+      <p id="error"> </p>
+
+      <input type="text" id="inputTexto" placeholder="Puedes ingresar sólo letras y números. " name="text-example"
+        required>
+
+      <button id="cifrar"> <strong>OCULTAR</strong> </button> &nbsp&nbsp <button id="descifrar"> <strong>MOSTRAR</strong>
+         </button>
+
+      <p id="parrafoTextoEntregado">¡Este es tu mensaje! Si lo vas a enviar, recuerda indicar la contraseña.</p>
+      <textarea id="textoEntregado" rows="1" cols="50"> </textarea>
+
+      <button id="volver"> <strong>VOLVER A INSTRUCCIONES</strong> </button>
+
+    </form>
+  </div>
 
 
+  <script src="cipher.js"></script>
+  <script src="index.js"></script>
+</body>
 
-<button id = "cifrar"> OCULTAR </button> &nbsp&nbsp <button id = "descifrar">MOSTRAR </button>
-
-    <p id="parrafoTextoEntregado">¡Este es tu mensaje! Si lo vas a enviar, recuerda indicar la contraseña.</p>
-     <textarea  id = "textoEntregado" rows="1" cols="50"> </textarea>
-
-<button id = "volver" > <strong>VOLVER A INSTRUCCIONES</strong> </button>
-
-</form>
-</div>
-
-
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
-  </body>
 </html>
